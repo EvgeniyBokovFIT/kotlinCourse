@@ -1,10 +1,5 @@
 package topics
 
-/**
- * @author Evgeniy
- * @since 24.10.2022
- */
-
 fun main() {
     val test1 = "Hello"
     //test1 = "Goodbye" - error

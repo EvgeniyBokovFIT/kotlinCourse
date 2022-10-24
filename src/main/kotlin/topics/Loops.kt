@@ -1,10 +1,5 @@
 package topics
 
-/**
- * @author Evgeniy
- * @since 24.10.2022
- */
-
 fun main() {
     //for each
     val items = listOf("apple", "banana", "orange") // List.of() Java
@@ -34,8 +29,5 @@ fun main() {
 
     for (i in 0..100 step 10)
         println(i)
-
-
-
 
 }
